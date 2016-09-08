@@ -1,0 +1,14 @@
+{
+  "name": "roger-bot",
+  "version": "1.0.0",
+  "description": "Roger Foxboy Slack Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Claire Grimmett",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.5.0"
+  }
+}
